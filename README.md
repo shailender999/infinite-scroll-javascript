@@ -1,2 +1,6 @@
 # infinite-scroll-javascript
-Created with CodeSandbox
+
+
+created infinite scroll feature in vanilla javascript
+
+
